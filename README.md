@@ -8,6 +8,7 @@
 [Assumption](#Assumption)
 
 [Design of the program – Flowcharts](#Design_of_the_program_–_Flowcharts)
+[Programing Concepts with screenshots of sample input_output and explanation](#Programing_Concepts_with_screenshots_of_sample_input_output_and_explanation)
 
 [Programing Concepts with screenshots of sample input/output and explanation](#Programing_Concepts_with_screenshots_of_sample_input/output_and_explanation)
 
@@ -33,7 +34,7 @@ The system is designed to keep looping where the user will be given an option to
 
 <img width="446" alt="image" src="https://github.com/AfifRifaie95/Payroll-Management-System-using-Python/assets/159521904/265bb740-53d0-458b-98e6-9207c650d820">
 
-### Programing Concepts with screenshots of sample input/output and explanation
+### Programing Concepts with screenshots of sample input_output and explanation
 
 #### Part 1
 
