@@ -4,7 +4,16 @@ The objective for this report is to develop a Payroll Management System to gener
 
 
 ### Table of Content
-[Assumption](Assumption)
+[Assumption](#Assumption)
+
+[Design of the program – Flowcharts](#Design_of_the_program_–_Flowcharts)
+
+[Conclusion](#Conclusion)
+
+[Limitation](#Limitation)
+
+[Reference](#Reference)
+
 ### Assumption
 
 The payment management system use list and does not use the database for data storing. Hence, once the user inserts the record, the record would not be stored once the exit menu is used.
