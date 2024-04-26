@@ -29,6 +29,8 @@ The payment management system use list and does not use the database for data st
 
 The system is designed to keep looping where the user will be given an option to return to main menu after selecting all the available options or user selects exit the program.
 
+If the employee’s total salary is below RM 2000, add 5% commissions for the employee. If the employee’s total salary is greater than RM3000, deduct 6% tax for the employee.
+
 ### Design of the program in flowcharts
 
 <img width="446" alt="image" src="https://github.com/AfifRifaie95/Payroll-Management-System-using-Python/assets/159521904/265bb740-53d0-458b-98e6-9207c650d820">
