@@ -25,11 +25,11 @@ The objective for this report is to develop a Payroll Management System to gener
 
 ### Assumption
 
-The payment management system use list and does not use the database for data storing. Hence, once the user inserts the record, the record would not be stored once the exit menu is used.
+- The payment management system use list and does not use the database for data storing. Hence, once the user inserts the record, the record would not be stored once the exit menu is used.
 
-The system is designed to keep looping where the user will be given an option to return to main menu after selecting all the available options or user selects exit the program.
+- The system is designed to keep looping where the user will be given an option to return to main menu after selecting all the available options or user selects exit the program.
 
-If the employee’s total salary is below RM 2000, add 5% commissions for the employee. If the employee’s total salary is greater than RM3000, deduct 6% tax for the employee.
+- If the employee’s total salary is below RM 2000, add 5% commissions for the employee. If the employee’s total salary is greater than RM3000, deduct 6% tax for the employee.
 
 ### Design of the program in flowcharts
 
