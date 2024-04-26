@@ -3,19 +3,19 @@
 ![image](https://github.com/AfifRifaie95/Payroll-Management-System-using-Python/assets/159521904/3c168f9c-327b-4115-b2e9-671a09dc2efa)
 
 ### Table of Content
-[Project Overview](#Project_Overview)
+[Project Overview](#project-overview)
 
-[Assumption](#Assumption)
+[Assumption](#assumption)
 
-[Design of the program in flowcharts](#Design_of_the_program_in_flowcharts)
+[Design of the program in flowcharts](#design-of-the-program-in-flowcharts)
 
-[Programing Concepts with screenshots of sample input/output and explanation](#Programing_Concepts_with_screenshots_of_sample_input/output_and_explanation)
+[Programing Concepts with screenshots of sample input output and explanation](#programing-concepts-with-screenshots-of-sample_input-output-and-explanation)
 
-[Conclusion](#Conclusion)
+[Conclusion](#conclusion)
 
-[Limitation](#Limitation)
+[Limitation](#limitation)
 
-[Reference](#Reference)
+[Reference](#reference)
 
 
 ### Project Overview
@@ -35,7 +35,7 @@ The objective for this report is to develop a Payroll Management System to gener
 
 <img width="446" alt="image" src="https://github.com/AfifRifaie95/Payroll-Management-System-using-Python/assets/159521904/265bb740-53d0-458b-98e6-9207c650d820">
 
-### Programing Concepts with screenshots of sample input_output and explanation
+### Programing Concepts with screenshots of sample input output and explanation
 
 #### Part 1
 
