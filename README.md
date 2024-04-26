@@ -9,6 +9,8 @@
 
 [Design of the program – Flowcharts](#Design_of_the_program_–_Flowcharts)
 
+[Programing Concepts with screenshots of sample input/output and explanation](#Programing_Concepts_with_screenshots_of_sample_input/output_and_explanation)
+
 [Conclusion](#Conclusion)
 
 [Limitation](#Limitation)
