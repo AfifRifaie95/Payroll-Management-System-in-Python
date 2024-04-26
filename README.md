@@ -9,7 +9,7 @@
 
 [Design of the program in flowcharts](#design-of-the-program-in-flowcharts)
 
-[Programing Concepts with screenshots of sample input output and explanation](#programing-concepts-with-screenshots-of-sample-input-output-and-explanation)
+[Programing concepts with screenshots of sample input output and explanation](#programing-concepts-with-screenshots-of-sample-input-output-and-explanation)
 
 [Conclusion](#conclusion)
 
@@ -35,7 +35,7 @@ The objective for this report is to develop a Payroll Management System to gener
 
 <img width="446" alt="image" src="https://github.com/AfifRifaie95/Payroll-Management-System-using-Python/assets/159521904/265bb740-53d0-458b-98e6-9207c650d820">
 
-### Programing Concepts with screenshots of sample input output and explanation
+### Programing concepts with screenshots of sample input output and explanation
 
 #### Part 1
 
