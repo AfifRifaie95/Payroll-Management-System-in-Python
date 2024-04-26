@@ -9,7 +9,7 @@
 
 [Design of the program in flowcharts](#design-of-the-program-in-flowcharts)
 
-[Programing Concepts with screenshots of sample input output and explanation](#programing-concepts-with-screenshots-of-sample_input-output-and-explanation)
+[Programing Concepts with screenshots of sample input output and explanation](#programing-concepts-with-screenshots-of-sample-input-output-and-explanation)
 
 [Conclusion](#conclusion)
 
