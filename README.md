@@ -1,9 +1,8 @@
 # Payroll-Management-System-using-Python
 
-The objective for this report is to develop a Payroll Management System to generate employee information and salary. The first part of the report the flow chart of overall system. The system starts with displaying the employee menu. The system validates the user input and user then can add, view and validate employee’s record that stored in the list function. From the list function, the employee can search and view salary record. The final part is to combine every part of the section into a complete Payroll Management System.
-
-
 ### Table of Content
+[Project Overview](Project_Overview)
+
 [Assumption](#Assumption)
 
 [Design of the program – Flowcharts](#Design_of_the_program_–_Flowcharts)
@@ -13,6 +12,13 @@ The objective for this report is to develop a Payroll Management System to gener
 [Limitation](#Limitation)
 
 [Reference](#Reference)
+
+![image](https://github.com/AfifRifaie95/Payroll-Management-System-using-Python/assets/159521904/3c168f9c-327b-4115-b2e9-671a09dc2efa)
+
+### Project Overview
+
+The objective for this report is to develop a Payroll Management System to generate employee information and salary. The first part of the report the flow chart of overall system. The system starts with displaying the employee menu. The system validates the user input and user then can add, view and validate employee’s record that stored in the list function. From the list function, the employee can search and view salary record. The final part is to combine every part of the section into a complete Payroll Management System.
+
 
 ### Assumption
 
