@@ -3,7 +3,7 @@
 ![image](https://github.com/AfifRifaie95/Payroll-Management-System-using-Python/assets/159521904/3c168f9c-327b-4115-b2e9-671a09dc2efa)
 
 ### Table of Content
-[Project Overview](Project_Overview)
+[Project Overview](#Project_Overview)
 
 [Assumption](#Assumption)
 
